@@ -2,6 +2,7 @@
 
 ## Emulators
 
+- 3dSen
 - Cemu
 - Citra
 - DeSmuMe
