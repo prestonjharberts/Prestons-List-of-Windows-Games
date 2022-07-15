@@ -21,9 +21,10 @@
 - RPCS3
 - yuzu
 
-## Launchers
+## Minecraft
 
 - GDLauncher
+- Minecraft Launcher
 
 ## Puzzle
 
@@ -42,6 +43,7 @@
 
 - OpenMW
 - Ephinea
+
 
 ## FPS
 
